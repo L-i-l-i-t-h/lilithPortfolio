@@ -1,2 +1,2 @@
-# lilithPortfolio
-3D and illustration Portfolio
+# lilithphysics
+portfolio of physics and simulation
